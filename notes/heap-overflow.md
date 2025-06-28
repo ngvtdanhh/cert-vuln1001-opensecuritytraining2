@@ -75,7 +75,7 @@ See demo/vuln-heap.c and exploitation script exploit-heap.py
 
 - OpenSecurityTraining2 – Vulnerabilities 1001, Heap Modules
 
-- how2heap - (https://github.com/shellphish/how2heap)
+- how2heap - https://github.com/shellphish/how2heap
 
 - heap-exploitation – LiveOverflow - https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
 
