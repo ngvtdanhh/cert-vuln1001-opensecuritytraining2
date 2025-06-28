@@ -106,7 +106,7 @@ This repository is strictly for educational and research purposes.
 
 - Intermediate learners familiar with C/Linux and interested in exploit development.
 
-✍️ Author
+## ✍️ Author
 
 Thành Danh – Pentester & Cybersecurity Research
 
