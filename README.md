@@ -106,13 +106,6 @@ This repository is strictly for educational and research purposes.
 
 - Intermediate learners familiar with C/Linux and interested in exploit development.
 
----
-
-## 📄 License
-
-This project is licensed under the terms of the **GNU AGPL v3.0**.  
-See [`LICENSE`](./LICENSE) for full details.
-
 © 2025 ngvtdanhh. All rights reserved.
 ## ✍️ Author
 
@@ -121,4 +114,13 @@ Thành Danh – Pentester & Cybersecurity Research
 GitHub: @ngvtdanhh
 
 Email: ngvu.thdanh@gmail.com
+
+---
+
+## 📄 License
+
+This project is licensed under the terms of the **GNU AGPL v3.0**.  
+See [`LICENSE`](./LICENSE) for full details.
+
+© 2025 ngvtdanhh. All rights reserved.
 
