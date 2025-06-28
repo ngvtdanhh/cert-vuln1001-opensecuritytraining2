@@ -7,7 +7,7 @@ It includes my personal notes, vulnerable C code, Python exploit scripts, and my
 
 ## 📜 Certificate
 
-- 🏅 [Vulnerabilities 1001 – Completion Certificate](./cert/Vulnerabilities%201001C-Family%20Software%20Implementation%20Vulnerabilities.png)
+- 🏅 [Vulnerabilities 1001 – Completion Certificate](./cert/vuln1001-ost2-certificate.png)
 
 ---
 
