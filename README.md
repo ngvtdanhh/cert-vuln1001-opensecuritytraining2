@@ -1,11 +1,12 @@
 # 🛡️ Vulnerabilities 1001 – OpenSecurityTraining2
 
-![OST2](https://img.shields.io/badge/OpenSecurityTraining2-Certified-brightgreen?style=flat-square&logo=bookstack)
-![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=checkmarx)
-![Level](https://img.shields.io/badge/Level-Intermediate-red?style=flat-square&logo=c)
-![Type](https://img.shields.io/badge/Type-Self--Study-orange?style=flat-square&logo=readthedocs)
-![Exploitation](https://img.shields.io/badge/Focus-Binary%20Exploitation-critical?style=flat-square&logo=gnu)
-![Author](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
+![Course](https://img.shields.io/badge/OpenSecurityTraining2-Certified-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Binary%20Exploitation-red?style=flat-square)
+![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Self--Study-lightgrey?style=flat-square)
+![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square)
+
 
 This repository documents what I learned from the **Vulnerabilities 1001: C-Family Software Implementation Vulnerabilities** course by [OpenSecurityTraining2](https://opensecuritytraining2.github.io/).  
 It includes my personal notes, vulnerable C code, Python exploit scripts, and my completion certificate.
